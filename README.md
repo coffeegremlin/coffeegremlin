@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **coffeegremlin/coffeegremlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi! How ya doing?
+### Hi there! How ya doing?
 
 - My name is Nathan Mausert, and my pronouns are he/him.
 - Currently New York based with a move to Los Angeles in January planned.
