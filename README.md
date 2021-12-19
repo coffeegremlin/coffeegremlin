@@ -7,7 +7,6 @@
 - My background in medical welding and prototype project management with cryogenic pressure vessels gives me solid troubleshooting fundamentals and an aptitude for managing expansive projects with unexpected issues.
 - My education at General Assembly has taught me a variety of tools, languages, stacks, and frameworks to create professional applications.
 - Currently, I'm looking for either a role in full stack web development, or game development!
-- Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/nathanmausert/), natemausert@gmail.com, or 518-708-7160!
 
 ### My Github Stats
 [![coffeegremlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeegremlin&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/coffeegremlin/github-readme-stats)
