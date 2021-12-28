@@ -8,9 +8,15 @@
 - My education at General Assembly has taught me a variety of tools, languages, stacks, and frameworks to create professional applications.
 - Currently, I'm looking for either a role in full stack web development, or game development!
 
+
+![battle-network-computer](https://user-images.githubusercontent.com/89211491/147590754-e5bb71a5-5983-4a46-b59b-e59525a26b0c.gif)
+![Ed-Bebop-coding](https://user-images.githubusercontent.com/89211491/147590906-6c680610-c8f9-4ff0-b290-8d18508df74e.gif)
+
+
 ### My Github Stats
-[![coffeegremlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeegremlin&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/coffeegremlin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeegremlin&layout=tokyonight)](https://github.com/coffeegremlin/github-readme-stats)
+
+[![coffeegremlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeegremlin&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/coffeegremlin/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeegremlin)](https://github.com/coffeegremlin/github-readme-stats)
+
 
 ### Skills
 <a href="#">
@@ -69,3 +75,5 @@
 <a href="https://www.linkedin.com/in/nathanmausert/">
 <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></img>
 </a>
+
+![copy-end](https://user-images.githubusercontent.com/89211491/147591272-934327c8-c201-44e6-a754-19ac30d05822.gif)
