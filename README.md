@@ -1,7 +1,7 @@
 
 ### Hi there! How ya doing?
 
-- My name is Nathan Mausert, and my pronouns are he/him.
+- My name is Nathan, and my pronouns are he/him.
 - Currently New York based with a move to Los Angeles in January planned.
 
 - My background in medical welding and prototype project management with cryogenic pressure vessels gives me solid troubleshooting fundamentals and an aptitude for managing expansive projects with unexpected issues.
