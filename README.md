@@ -2,7 +2,7 @@
 ### Hi there! How ya doing?
 
 - My name is Nathan, and my pronouns are he/him.
-- Currently based in Los Angeles.
+- Currently based on the west coast.
 
 - My background in medical welding and prototype project management with cryogenic pressure vessels gives me solid troubleshooting fundamentals and an aptitude for managing expansive projects with unexpected issues.
 - My education at General Assembly has taught me a variety of tools, languages, stacks, and frameworks to create professional applications.
