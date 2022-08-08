@@ -5,7 +5,7 @@
 - Currently based on the west coast.
 
 - My background in medical welding and prototype project management with cryogenic pressure vessels gives me solid troubleshooting fundamentals and an aptitude for managing expansive projects with unexpected issues.
-- My education at General Assembly has taught me a variety of tools, languages, stacks, and frameworks to create professional applications.
+- My education and work experience as an Instructional Associate at General Assembly has taught me a variety of tools, languages, stacks, and frameworks to create professional applications.
 - Currently, I'm looking for either a role in full stack web development, or game development!
 
 
