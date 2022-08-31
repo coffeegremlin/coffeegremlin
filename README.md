@@ -10,8 +10,6 @@
 
 
 ![battle-network-computer](https://user-images.githubusercontent.com/89211491/147590754-e5bb71a5-5983-4a46-b59b-e59525a26b0c.gif)
-![Ed-Bebop-coding](https://user-images.githubusercontent.com/89211491/147590906-6c680610-c8f9-4ff0-b290-8d18508df74e.gif)
-
 
 ### My Github Stats
 
