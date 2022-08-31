@@ -1,12 +1,11 @@
 
 ### Hi there! How ya doing?
 
-- My name is Nathan, and my pronouns are he/him.
+- My name is Nathan, and my pronouns are he/him. I'm a full stack software engineer. I currently work as an instructional associate at General Assembly.
+- I have a B.S. in audio engineering, and used to be a medical grade GTAW welder for Philips Medical Systems.
 - Currently based on the west coast.
-
-- My background in medical welding and prototype project management with cryogenic pressure vessels gives me solid troubleshooting fundamentals and an aptitude for managing expansive projects with unexpected issues.
 - My education and work experience as an Instructional Associate at General Assembly has taught me a variety of tools, languages, stacks, and frameworks to create professional applications.
-- Currently, I'm looking for either a role in full stack web development, or game development!
+- Currently, I'm looking for a role in full stack web development!
 
 
 ![battle-network-computer](https://user-images.githubusercontent.com/89211491/147590754-e5bb71a5-5983-4a46-b59b-e59525a26b0c.gif)
